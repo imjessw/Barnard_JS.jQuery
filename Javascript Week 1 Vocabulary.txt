@@ -1,0 +1,18 @@
+Javascript Week 1 Vocabulary
+
+Javascript -
+
+
+jQuery- is a library with two principle purposes: manipulating elements on a web page, and helping out with Ajax requests. At its core jQuery is a tool to help us improve the usability of our sites and create a better user experience.
+
+Usability- Refers to the study of the principles behind a objesct's percived  efficency or elegance.
+
+Ajax-
+
+Events-
+
+Fired-
+
+Method-
+
+
