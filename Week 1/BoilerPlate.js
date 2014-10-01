@@ -1,8 +1,8 @@
 $( document ).ready(function() {
-    console.log( "ready!" );
+    alert("No longer under investigation!!!");
 });
 
 // Shorthand for $( document ).ready()
 // $(function() {
 //     console.log( "ready!" );
-});
+// });
