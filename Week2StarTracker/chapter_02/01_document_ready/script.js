@@ -1,3 +1,4 @@
 $(document).ready(function(){
-  // alert('Welcome to StarTrackr! Now no longer under police investigation!');
+  console.log("OMG JAVASCRIPT");
+    $('#celebs tbody tr:even').addClass('zebra');
 });

@@ -1,0 +1,38 @@
+$(document).ready(function(){
+  // alert('Welcome to StarTrackr! Now no longer under police investigation!');
+
+  alert($('#celebs tr').length + ' elements!');
+
+// // Narrowing selection
+//   alert($('#celebs tbody tr').length + ' elements!');
+	
+
+// Filters
+	alert($('#celebs tbody tr:even').length + ' elements!');
+
+// Zerba striping
+	$('#celebs tbody tr:even').css('background-color','#dddddd');
+
+// ASSIGNING MULTIPLE PROPERTIES 1
+  $('#celebs tbody tr:even').css('background-color','#dddddd');
+  $('#celebs tbody tr:even').css('color', '#666666');	
+// ASSIGNING MULTIPLE PROPERTIES 2
+  $('#celebs tbody tr:even').css( 
+    {'background-color': '#dddddd', 'color': '#666666'}  
+
+// ASSIGNING MULTIPLE PROPERTIES 3
+  $('#celebs tbody tr:even').css({
+    'background-color': '#dddddd', 
+    'color': '#666666',
+    'font-size': '11pt',
+    'line-height': '2.5em' 
+  });
+
+  Notice all css is being added to the 
+
+  // ADD CLASS
+    $('#celebs tbody tr:even').addClass('zebra');
+    // last thing we did
+    
+
+});
